@@ -6,6 +6,7 @@ date:       2015-03-25
 author:     "Hux"
 header-img: "img/post-bg-digital-native.jpg"
 catalog: true
+category: "Guide For Set Up"
 tags:
     - hUX 随想录
     - 职业病
